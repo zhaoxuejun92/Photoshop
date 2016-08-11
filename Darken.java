@@ -1,7 +1,7 @@
 import cs180.image.Pixel;
 
 /**
- * Created by junjun on 8/2/16.
+ * Created by Xuejun Zhao
  */
 public class Darken extends AdjustColor {
     public Darken(){

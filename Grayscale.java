@@ -1,7 +1,7 @@
 import cs180.image.Pixel;
 
 /**
- * Created by junjun on 8/6/16.
+ * Created by Xuejun Zhao 
  */
 public class Grayscale extends AdjustColor {
     public Grayscale(){
